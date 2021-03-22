@@ -1,6 +1,6 @@
 ## Usage
 
-1. Place Dockerfile Arches project folder
+1. Place Dockerfile in Arches project folder
 
 2. Run commands:
 
