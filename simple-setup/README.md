@@ -5,7 +5,7 @@
 2. Run commands:
 
 ```
-$ docker build -t arches-local  .
+$ docker build -t arches-local .
 $ docker run --detach arches-local
 ```
 
